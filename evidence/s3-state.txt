@@ -1,0 +1,2 @@
+aws s3 ls s3://sergio-orders-tfstate/orders/
+2026-05-17 14:08:08       3447 terraform.tfstate
